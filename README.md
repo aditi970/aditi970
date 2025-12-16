@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **THE CALCONLYADDITION**
 
-- 🌱 I’m currently learning **MBA-INFOTMATION TECHNOLOGY**
+- 🌱 I’m currently learning **MBA-INFORMATION TECHNOLOGY**
 
 - Connect with me on [https://www.linkedin.com/in/aditi-mishra-872915219](https://www.linkedin.com/in/aditi-mishra-872915219)
 
