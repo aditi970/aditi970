@@ -4,9 +4,9 @@
 <img align="right" alt="coding" width="400" src="https://thumbs.gfycat.com/GlisteningAggravatingJunebug-max-1mb.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditi970&label=Profile%20views&color=0e75b6&style=flat" alt="aditi970" /> </p>
 
-- 🔭 I’m currently working on **The Course Master**
+- 🔭 I’m currently working on **THE CALCONLYADDITION**
 
-- 🌱 I’m currently learning **DATA STRUCTURE AND WEB DEVELOPMENT**
+- 🌱 I’m currently learning **MBA-INFOTMATION TECHNOLOGY**
 
 - Connect with me on [https://www.linkedin.com/in/aditi-mishra-872915219](https://www.linkedin.com/in/aditi-mishra-872915219)
 
